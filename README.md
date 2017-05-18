@@ -1,2 +1,3 @@
 # machine-note
-python note
+python noteajshjahjjjjjjjjjjj
+jaghsdgshshdj
