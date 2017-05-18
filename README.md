@@ -1,0 +1,2 @@
+# machine-note
+python note
